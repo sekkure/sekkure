@@ -7,5 +7,3 @@
 🍃 My **GitHub** organization with all my **learning** repositories: **[click](https://github.com/JulyGardens)**
 
 🚀 Socials: **[Twitch](https://www.twitch.tv/sekure_), [Twitter](https://twitter.com/6secre6), Discord: secre#8499, [Steam](https://steamcommunity.com/id/sekkure/)**
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sekkure&show_icons=true&theme=tokyonight)
